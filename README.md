@@ -60,9 +60,11 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kuntal616&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kuntal616&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuntal616&layout=compact)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuntal616&layout=compact&hide_border=true)
+
 
 ---
 
